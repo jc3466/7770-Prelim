@@ -18,5 +18,5 @@ Problem 2 used Matlab:
 
 * There should be a 'function' file and a 'solve' script for each part of the problem. The function for that part is called by its 
 associated 'solve' script
-* For part e, codes for parts c and d were used. 
+* For part e, codes for part d was used to solve ODES and plot Z vs. time 
 * To generate the plots for parts c through e, execute the Matlab scripts with 'solve' in the name. 
