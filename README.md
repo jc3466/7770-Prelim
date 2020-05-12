@@ -1,12 +1,15 @@
 # 7770-Prelim
-This repository includes my solutions to Prelim 1. All answers, plots, and tables are presented and explained in Prelim.pdf. 
-So, please consult Prelim.pdf first because it summarizes all of my results, figures, and tables in one document. 
+This repository includes my solutions to Prelim 1. All answers, plots, and tables are presented and explained in Prelim_1.pdf and Prelim_2.pdf
+
+So, please consult Prelim_1 and Prelim_2 pdfs first because they summarize all of my results, figures, and tables. 
+My pdf was too large so I had to separate it into two files. To be clear, Prelim_1.pdf does NOT only contain my problem 1 solution. Rather, the 1 and 2 represent the order in which to read the pdfs. 
 
 
 Problem 1 was done using excel: 
-* All parameters used for the model are summarized in tables in Prelim.pdf.
+* All parameters used for the model are summarized in tables in Prelim_1.pdf
 
-* My handwritten solutions for problem 1 are also in Prelim.pdf
+* My handwritten solutions for problem 1 are also in Prelim_1.pdf 
+* Parameters were estimated using bionumbers and the McClure paper. All sources are included in a table with the values and units. 
 
 Problem 2 used Matlab:
 
